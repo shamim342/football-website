@@ -286,6 +286,7 @@ nav{
 
     .copa-america{
         height: 50vh;
+        overflow: hidden;
     }
 
     .players{
