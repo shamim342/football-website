@@ -284,14 +284,16 @@ nav{
 
 @media screen and (min-width:688px) and (max-width:992px) {
 
-    
+    .copa-america{
+        height: 50vh;
+    }
 
     .players{
         display: grid;
         grid-template-columns: repeat(2,1fr);
         grid-row-gap: 010px;
-        margin: 0 8%;
-        margin: 7% 5%;
+        
+        
     }
 
     .login-page{
